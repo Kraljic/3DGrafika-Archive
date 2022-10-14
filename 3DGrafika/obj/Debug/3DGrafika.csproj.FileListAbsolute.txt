@@ -1,0 +1,8 @@
+c:\users\marko\documents\visual studio 2017\Projects\3DGrafika\3DGrafika\bin\Debug\3DGrafika.exe
+c:\users\marko\documents\visual studio 2017\Projects\3DGrafika\3DGrafika\bin\Debug\3DGrafika.pdb
+c:\users\marko\documents\visual studio 2017\Projects\3DGrafika\3DGrafika\obj\Debug\3DGrafika.csprojResolveAssemblyReference.cache
+c:\users\marko\documents\visual studio 2017\Projects\3DGrafika\3DGrafika\obj\Debug\_3DGrafika.Form1.resources
+c:\users\marko\documents\visual studio 2017\Projects\3DGrafika\3DGrafika\obj\Debug\_3DGrafika.Properties.Resources.resources
+c:\users\marko\documents\visual studio 2017\Projects\3DGrafika\3DGrafika\obj\Debug\3DGrafika.csproj.GenerateResource.Cache
+c:\users\marko\documents\visual studio 2017\Projects\3DGrafika\3DGrafika\obj\Debug\3DGrafika.exe
+c:\users\marko\documents\visual studio 2017\Projects\3DGrafika\3DGrafika\obj\Debug\3DGrafika.pdb
